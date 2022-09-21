@@ -21,7 +21,7 @@ void draw()
 {
   //Transformations to fix things that I should've thought of before writing the program
   //Writing a design document is a good idea, who would've thought
-  translate(30+150, 70);
+  translate(30+130, 70);
   scale(0.8);
  
   //sky
