@@ -150,7 +150,7 @@ void mouseDragged()
    starty += randy;  
   
   }
-  startx = 40  ;
+  startx = 60  ;
   starty = 150;
   
    for(int j = 0; j<30; j++)
@@ -165,7 +165,7 @@ void mouseDragged()
    startx2 += randx2;
    starty2 += randy2;
   }
-  startx2 = 250;
+  startx2 = 230;
   starty2 = 150;
 }
 
